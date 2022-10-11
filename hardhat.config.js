@@ -30,7 +30,7 @@ module.exports = {
       }
     }
   },
-  defaultNetwork: "Shibuya",
+  defaultNetwork: "Wanchain",
   namedAccounts: {
     deployer: 0
   },
